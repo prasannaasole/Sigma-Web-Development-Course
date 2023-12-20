@@ -1,0 +1,14 @@
+body{
+    background-color: bisque;
+}
+
+td{
+    border: 3px solid black;
+}
+th{
+    border: 4px solid navy;
+}
+
+table{
+    border: 4px solid black;
+}
